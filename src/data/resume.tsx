@@ -92,7 +92,7 @@ export const DATA = {
       school: "100xDevs",
       href: "https://100xdevs.com/",
       degree: "Bachelor's Degree of Computer Science (BCS)",
-      logoUrl: "/waterloo.png",
+      logoUrl: "100xdevs.jpg",
     },
   ],
   projects: [
